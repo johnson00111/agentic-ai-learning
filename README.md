@@ -6,7 +6,7 @@ This repo documents my hands-on exploration of the agentic AI landscape, includi
 
 ## 🎯 Learning Outcome
 
-Everything learned here feeds into my main project: **[ai-agent-office](https://github.com/YOUR_USERNAME/ai-agent-office)** — a general-purpose framework that dynamically generates AI teams for any industry.
+Everything learned here feeds into my main project: **[ai-agent-office](https://github.com/johnson00111/ai-agent-office)** — a general-purpose framework that dynamically generates AI teams for any industry.
 
 ## 📚 Contents
 
