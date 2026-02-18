@@ -33,8 +33,8 @@ Build a **general-purpose AI Office framework** that can:
 
 **Goal:** Get all tools running, confirm the free GPU pipeline works.
 
-- [ ] Install Python 3.10+, Git, VS Code
-- [ ] Install Ollama locally (even on weak hardware, just to understand the tool)
+- [x] Install Python 3.10+, Git, VS Code
+- [x] Install Ollama locally (even on weak hardware, just to understand the tool)
 - [ ] Set up Google Colab notebook: Ollama + Qwen3-8B + ngrok
 - [ ] Verify API endpoint works: `curl https://xxxx.ngrok-free.app/v1/chat/completions`
 - [ ] Set up Kaggle notebook as backup (more stable, 30 hrs/week free GPU)
