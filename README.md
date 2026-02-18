@@ -12,9 +12,9 @@ Everything learned here feeds into my main project: **[ai-agent-office](https://
 
 | Topic | Description | Status |
 |-------|-------------|--------|
-| [01-agent-fundamentals](./01-agent-fundamentals/) | ReAct pattern, tool use, memory, single-agent design | 🔲 Not started |
-| [02-multi-agent](./02-multi-agent/) | Multi-agent collaboration, AutoGen vs CrewAI, orchestration patterns | 🔲 Not started |
-| [03-local-llm](./03-local-llm/) | Running Qwen3 locally via Ollama, free GPU setup (Colab/Kaggle + ngrok) | 🔲 Not started |
+| [01-agent-fundamentals](./01-agent-fundamentals/) | ReAct pattern, tool use, memory, single-agent design | Ongoing |
+| [02-multi-agent](./02-multi-agent/) | Multi-agent collaboration, AutoGen vs CrewAI, orchestration patterns | Not started |
+| [03-local-llm](./03-local-llm/) | Running Qwen3 locally via Ollama, free GPU setup (Colab/Kaggle + ngrok) | Not started |
 | [04-papers](./04-papers/) | Paper reading notes with analysis | 🔲 Not started |
 | [resources.md](./resources.md) | Curated list of courses, papers, repos, and tools | 🔲 Not started |
 
